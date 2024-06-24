@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f246a4b0-ac87-479a-aec9-12b8e1ccb7c0" name="更改" comment="常用命令">
+      <change afterPath="$PROJECT_DIR$/.idea/Django-vue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/5420c25c-5835-4f9d-844e-1276dc22b007.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/5420c25c-5835-4f9d-844e-1276dc22b007/storage_v2/_src_/schema/csdn.-rwuAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/5420c25c-5835-4f9d-844e-1276dc22b007/storage_v2/_src_/schema/data.qu8uAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/5420c25c-5835-4f9d-844e-1276dc22b007/storage_v2/_src_/schema/flask.8-_PBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/5420c25c-5835-4f9d-844e-1276dc22b007/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/5420c25c-5835-4f9d-844e-1276dc22b007/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/5420c25c-5835-4f9d-844e-1276dc22b007/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/5420c25c-5835-4f9d-844e-1276dc22b007/storage_v2/_src_/schema/student_management.xyjC9g.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/5420c25c-5835-4f9d-844e-1276dc22b007/storage_v2/_src_/schema/stuma.yA6LBg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/5420c25c-5835-4f9d-844e-1276dc22b007/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/5420c25c-5835-4f9d-844e-1276dc22b007/storage_v2/_src_/schema/sys.zb4BAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/5420c25c-5835-4f9d-844e-1276dc22b007/storage_v2/_src_/schema/watervue.D1mfIA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/5420c25c-5835-4f9d-844e-1276dc22b007/storage_v2/_src_/schema/xueke.YrzRBg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/897160cd-8454-46f4-88e3-1ead0131be66.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/.idea/djangoproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/djangoproject.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/djangoproject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/djangoproject/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/djangoproject/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/djangoproject/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/djangoproject/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/index/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/index/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/index/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/index/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/index/migrations/0002_upvote.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/index/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/index/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/index/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/index/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/index/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/index/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/index/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tyets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/public/images/20201124032511.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/assets/bc/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/assets/bc/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/assets/carousel/bo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/assets/carousel/bo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/assets/carousel/bo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/assets/carousel/bo4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/assets/carousel/bo5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/assets/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/assets/log/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/assets/log/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/assets/up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/pages/detail/detail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/pages/index/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/pages/index/person_blog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/pages/index/publish.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/pages/index/vueindex.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/pages/login_register/home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/pages/login_register/login/login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/pages/login_register/register/register.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/pages/release/releaseblog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/pages/user/userchange.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/src/useChatbot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuedemo/vue.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实战2.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Vue Composition API Component" />
+        <option value="JavaScript File" />
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/vuedemo/src/pages/detail/detail.vue" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2gBOplk0BXtDoi8QjRwT8rtQInW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Django 服务器.django.executor&quot;: &quot;Run&quot;,
+    &quot;Django 服务器.未命名.executor&quot;: &quot;Run&quot;,
+    &quot;Python.asgi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.manage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.settings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tyets.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/韩乐/Desktop/wise/wise-model&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;LermitageExtraTci&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\PyCharm 2023.3.5\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;,
+      &quot;redis&quot;
+    ],
+    &quot;vue.recent.templates&quot;: [
+      &quot;Vue Composition API Component&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\韩乐\Desktop\ProjectStudy\Django-vue\djangoproject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\韩乐\Desktop\ProjectStudy\Django-vue\vuedemo\src\pages\index" />
+      <recent name="C:\Users\韩乐\Desktop\ProjectStudy\Django-vue\vuedemo\src\pages\login_register" />
+      <recent name="C:\Users\韩乐\Desktop\ProjectStudy\Django-vue\vuedemo\src\pages" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="django" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Django-vue" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="djangoproject.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\韩乐\Desktop\ProjectStudy\Django-vue\djangoproject" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f246a4b0-ac87-479a-aec9-12b8e1ccb7c0" name="更改" comment="" />
+      <created>1715167689959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715167689959</updated>
+      <workItem from="1715167691248" duration="3179000" />
+      <workItem from="1715180648876" duration="1653000" />
+      <workItem from="1715182446279" duration="668000" />
+      <workItem from="1715183189542" duration="275000" />
+      <workItem from="1715236731639" duration="3159000" />
+      <workItem from="1715252099134" duration="303000" />
+      <workItem from="1715252416613" duration="760000" />
+      <workItem from="1715348498906" duration="51000" />
+      <workItem from="1715349745151" duration="479000" />
+      <workItem from="1715350236288" duration="86000" />
+      <workItem from="1715350341430" duration="22000" />
+      <workItem from="1715351120110" duration="43000" />
+      <workItem from="1715393805539" duration="5131000" />
+      <workItem from="1715405959619" duration="688000" />
+      <workItem from="1715407821686" duration="32000" />
+      <workItem from="1715407865477" duration="8413000" />
+      <workItem from="1715416580682" duration="5659000" />
+      <workItem from="1715422291997" duration="2133000" />
+      <workItem from="1715425376985" duration="26000" />
+      <workItem from="1715428607822" duration="1832000" />
+      <workItem from="1715438669236" duration="23000" />
+      <workItem from="1715496941804" duration="1940000" />
+      <workItem from="1715508431728" duration="2322000" />
+      <workItem from="1715511346701" duration="167000" />
+      <workItem from="1715511527664" duration="164000" />
+      <workItem from="1715511702809" duration="298000" />
+      <workItem from="1715512017410" duration="50000" />
+      <workItem from="1715512078394" duration="74000" />
+      <workItem from="1715512162994" duration="462000" />
+      <workItem from="1715512638211" duration="197000" />
+      <workItem from="1715512846048" duration="5436000" />
+      <workItem from="1715557445532" duration="94000" />
+      <workItem from="1715573286899" duration="12772000" />
+      <workItem from="1715671661984" duration="5183000" />
+      <workItem from="1715682421894" duration="9000" />
+      <workItem from="1715689990965" duration="2295000" />
+      <workItem from="1715692310455" duration="8636000" />
+      <workItem from="1715738698556" duration="22545000" />
+      <workItem from="1715786467520" duration="2318000" />
+      <workItem from="1715840862988" duration="9685000" />
+      <workItem from="1715853534020" duration="10021000" />
+      <workItem from="1715866825989" duration="12000" />
+      <workItem from="1715937715254" duration="1206000" />
+      <workItem from="1716082193879" duration="65000" />
+      <workItem from="1716186225202" duration="85000" />
+      <workItem from="1716189457098" duration="2690000" />
+      <workItem from="1716192531546" duration="3000" />
+      <workItem from="1716192979314" duration="12000" />
+      <workItem from="1716197173996" duration="1916000" />
+      <workItem from="1716268676421" duration="42000" />
+      <workItem from="1716268739762" duration="16038000" />
+      <workItem from="1716304180008" duration="2690000" />
+      <workItem from="1716335018350" duration="6412000" />
+      <workItem from="1716377821087" duration="4183000" />
+      <workItem from="1716382026848" duration="23000" />
+      <workItem from="1716382064147" duration="57000" />
+      <workItem from="1716382135034" duration="135000" />
+      <workItem from="1716382281900" duration="119000" />
+      <workItem from="1716382419163" duration="34000" />
+      <workItem from="1716382609990" duration="110000" />
+      <workItem from="1716382733942" duration="272000" />
+      <workItem from="1716383848802" duration="6713000" />
+      <workItem from="1716426563421" duration="225000" />
+      <workItem from="1716428716950" duration="13258000" />
+      <workItem from="1716460585245" duration="8478000" />
+      <workItem from="1716516012005" duration="1604000" />
+      <workItem from="1716522279576" duration="680000" />
+      <workItem from="1716713813913" duration="207000" />
+      <workItem from="1716714037699" duration="182000" />
+      <workItem from="1716714233114" duration="65000" />
+      <workItem from="1716714312631" duration="165000" />
+      <workItem from="1716714490549" duration="7460000" />
+      <workItem from="1716809954390" duration="2806000" />
+      <workItem from="1716881657185" duration="241000" />
+      <workItem from="1716885393640" duration="2340000" />
+      <workItem from="1716894415752" duration="1197000" />
+      <workItem from="1716950402322" duration="1279000" />
+      <workItem from="1716975309828" duration="1121000" />
+      <workItem from="1717050378632" duration="707000" />
+      <workItem from="1717054882842" duration="822000" />
+      <workItem from="1717059663034" duration="31000" />
+      <workItem from="1717120782228" duration="412000" />
+      <workItem from="1717125924286" duration="1539000" />
+      <workItem from="1717236417866" duration="1322000" />
+      <workItem from="1717252570952" duration="2130000" />
+      <workItem from="1717308687547" duration="322000" />
+      <workItem from="1717423424718" duration="145000" />
+      <workItem from="1717466292532" duration="1497000" />
+      <workItem from="1717467950801" duration="8000" />
+      <workItem from="1717468019609" duration="1903000" />
+      <workItem from="1717481625356" duration="9000" />
+      <workItem from="1717484075204" duration="592000" />
+      <workItem from="1717488290148" duration="298000" />
+      <workItem from="1718336452727" duration="3308000" />
+      <workItem from="1718360121938" duration="3000" />
+      <workItem from="1718360886629" duration="3000" />
+      <workItem from="1718361523614" duration="592000" />
+      <workItem from="1718533664055" duration="1186000" />
+      <workItem from="1718847182489" duration="217000" />
+      <workItem from="1718939079441" duration="3866000" />
+      <workItem from="1718945408076" duration="14000" />
+      <workItem from="1718964872052" duration="3979000" />
+      <workItem from="1719191866968" duration="50000" />
+      <workItem from="1719208662866" duration="587000" />
+    </task>
+    <task id="LOCAL-00001" summary="常用命令">
+      <option name="closed" value="true" />
+      <created>1719209020126</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719209020127</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="常用命令" />
+    <option name="LAST_COMMIT_MESSAGE" value="常用命令" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Django_vue$tyets.coverage" NAME="tyets 覆盖结果" MODIFIED="1718970519342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Django_vue$manage.coverage" NAME="manage 覆盖结果" MODIFIED="1715252628537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyDjango" />
+    <SUITE FILE_PATH="coverage/Django_vue$asgi.coverage" NAME="asgi 覆盖结果" MODIFIED="1715252653437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyDjango/MyDjango" />
+    <SUITE FILE_PATH="coverage/Django_vue$settings.coverage" NAME="settings 覆盖结果" MODIFIED="1715350178014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webdjango/webdjango" />
+  </component>
+</project>
