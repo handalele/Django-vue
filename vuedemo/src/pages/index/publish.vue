@@ -52,6 +52,10 @@ const options = [
   {
     value: '算法',
     label: '算法',
+  },
+  {
+    value: '其他',
+    label: '其他',
   }
 ]
 const publish = () => {
