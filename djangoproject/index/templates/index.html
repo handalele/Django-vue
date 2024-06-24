@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+NIHAO
+<p>{{ book.title }}</p>
+<p>{{ books.0.title }}</p>
+<p>{{ books.1 }}</p>
+<p>{{ person.name }}</p>
+<p>{{ person.age }}</p>
+
+<table>
+    <thead>
+    <tr>
+        <td>标题</td>
+        <td>价格</td>
+    </tr>
+    </thead>
+    <tbody>
+    {% for book in books %}
+    <tr>
+        <td>{{ book.title }}</td>
+        <td>{{ book.price }}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+
+
+</table>
+<div>
+    {% for key,values in book.items %}
+    <p>{{ key }} {{ values }}</p>
+    {% endfor %}
+</div>
+
+</body>
+</html>
